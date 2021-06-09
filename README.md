@@ -1,2 +1,3 @@
 # instagram-dio
-Recriei a interface de login do Instagram
+Recriando a interface de login do Instagram.
+Usando HTML e CSS. 
